@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall, but the fire is wide awake
+> I trace the outline of the memories we make
+> Caught in the current of a beautiful mistake
+> I am drowning without your love, an ache I cannot shake
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
