@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/drowning-without-your-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Drowning Without Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-without-your-love/) |
+| **Get License** | [Get a Licensing Quote for Drowning Without Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-without-your-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `458fd9295216dd0135b02f981eb95c13a0280b30cd68dd387c1961fa69d2610e` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

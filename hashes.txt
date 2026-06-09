@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Drowning Without Your Love
+
+This log tracks the cryptographic history and versioning for the song **Drowning Without Your Love** (drowning-without-your-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T18:48:01.097589 | `v1` | `458fd9295216dd0135b02f981eb95c13a0280b30cd68dd387c1961fa69d2610e` | `8eeb4ba1fd9d6c4702c63bcf74c1ac37e26ce57e18ef2b89ad7d659adacb269e` | `2026-06-09_drowning-without-your-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
